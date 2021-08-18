@@ -1,7 +1,16 @@
-### Hi there 👋
-# Welcome to the World of VB! 💻
+<h1 align="center">
+  Welcome to the World of VB! 💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vigneshbaalaji/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/></a> 
+&#8287;&#8287;&#8287;&#8287;&#8287; 
+<a href="https://www.kaggle.com/vigneshbaalaji"><img width="32px" alt="Kaggle" title="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
+</p>
+
 <!--
 **Vigneshbaalaji/Vigneshbaalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg
 
 Here are some ideas to get you started:
 
