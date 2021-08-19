@@ -7,6 +7,8 @@
 &#8287;&#8287;&#8287; <a href="https://leetcode.com/Vigneshbaalaji_S/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 &#8287;&#8287;&#8287; </p>
 
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vigneshbaalaji&show_icons=true&locale=en" alt="chandrikadeb7" /></p>
 <!--
 **Vigneshbaalaji/Vigneshbaalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg
