@@ -8,6 +8,9 @@
 &#8287;&#8287;&#8287; <a href="https://leetcode.com/Vigneshbaalaji_S/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 &#8287;&#8287;&#8287; </p>
 
+
+
+![alt text](https://github.com/Vigneshbaalaji/Vigneshbaalaji/blob/80f472391efe515aff7135063a00534387be4601/Cover.png)
 ## About
 
 I teach Machines in Full time!
