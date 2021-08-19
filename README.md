@@ -5,8 +5,12 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vigneshbaalaji/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&#8287;&#8287;&#8287;&#8287;&#8287; 
+&#8287;&#8287;&#8287; <a href="https://www.kaggle.com/vigneshbaalaji" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+&#8287;&#8287;&#8287; <a href="https://leetcode.com/Vigneshbaalaji_S/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+&#8287;&#8287;&#8287;
+
 </p>
+
 
 <!--
 **Vigneshbaalaji/Vigneshbaalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
