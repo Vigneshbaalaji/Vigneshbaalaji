@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vigneshbaalaji/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/></a> 
+
+<a href="https://www.linkedin.com/in/vigneshbaalaji/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287; 
-<a href="https://www.kaggle.com/vigneshbaalaji"><img width="32px" alt="Kaggle" title="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
 </p>
 
 <!--
